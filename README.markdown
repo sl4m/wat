@@ -14,4 +14,5 @@ To run specs, run `rake`.
 
 * [8th Light](http://8thlight.com/) for Friday wazas.
 * [MazeNL77](http://mazenl77.deviantart.com/) for the icon.
+* @garybernhardt for his wat talk
 * Creator of [watbutton.com](http://watbutton.com/) for inspiration.
