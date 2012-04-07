@@ -2,13 +2,9 @@
 
 A wat button as a Google Chrome extension.  It used to wat.
 
-## For the user
+## Install
 
 Go to the [Chrome Web Store](https://chrome.google.com/webstore/detail/) and install it.
-
-## For the developer
-
-To run specs, run `rake`.
 
 ## Thanks
 
