@@ -4,7 +4,7 @@ A wat button as a Google Chrome extension.  It used to wat.
 
 ## Install
 
-Go to the [Chrome Web Store](https://chrome.google.com/webstore/detail/) and install it.
+Go to the [Chrome Web Store](https://chrome.google.com/webstore/detail/ilplnmjooojahcdghggbaaeddjmopccl) and install it.
 
 ## Thanks
 
