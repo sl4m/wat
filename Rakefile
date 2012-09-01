@@ -32,7 +32,7 @@ namespace :build do
   end
 
   task :copy_files do
-    files = %w[manifest.json wat.html]
+    files = %w[manifest.json]
     `cp #{files.join(' ')} #{UNPACKED_DIR}`
 
     audio_files = Dir.glob("#{AUDIO_DIR}/*.*")

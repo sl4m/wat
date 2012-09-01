@@ -1,7 +1,7 @@
 {
   "manifest_version" : 2,
   "name" : "wat",
-  "version" : "0.1.1",
+  "version" : "0.1.2",
   "description" : "WAT",
   "icons" : {
     "16"  : "images/icon-16.png",
@@ -9,7 +9,8 @@
     "128" : "images/icon-128.png"
   },
   "background" : {
-    "page" : "wat.html"
+    "scripts" : ["wat.js"],
+    "persistent": false
   },
   "browser_action" : {
     "default_icon"  : "images/icon-19.png",
